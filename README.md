@@ -5,4 +5,4 @@
 (아재사자) [[자기소개]](https://syulion8th.github.io/SE7EN/minsang.html)
 - 식품영양학과 2017100713 류지윤 (초보사자) [[자기소개]](https://syulion8th.github.io/SE7EN/지윤/jiyun.html)
 - 아트앤디자인 2018101103 성예지 (컨셉충사자) [[자기소개]](https://syulion8th.github.io/SE7EN/성예지/index.html)
-- 영어영문학부 2020100144 김재민 (아기사자)
+- 영어영문학부 2020100144 김재민 (아기사자) [[자기소개]]
