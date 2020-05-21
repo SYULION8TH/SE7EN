@@ -23,13 +23,13 @@
 </head>
 <body>
     <header>
-        <nav>
+        <nav class="row">
             <img src="./logo.png" alt="LIKELION" width="50">
             <div class="inline-block title">
                 <p class="inline-block fontsize-30">LIKELION 8TH</p>
                 <p class="inline-block">Seong-Yeji</p>
             </div>
-            <ul class="inline-block">
+            <!-- <ul class="inline-block">
                 <li>
                     <p>id로</p>
                 </li>
@@ -51,7 +51,7 @@
                 <li>
                     <p>못함</p>
                 </li>
-            </ul>
+            </ul> -->
         </nav>
         <div class="main-content">
             <p id="main-1">LIKELION 8TH 2ND ANSIGNMENT</p>
@@ -59,7 +59,7 @@
         </div>
     </header>
     <section>
-        <article>
+        <article class="col-sm-12 col-md-12 col-lg-4">
             <div>
                     
                 <div class="inline-block self"> 
@@ -78,7 +78,7 @@
             </div>
         </article>
 
-        <article>
+        <article class="col-sm-12 col-md-12 col-lg-4">
             <div>
                     
                 <div class="inline-block self"> 
@@ -96,27 +96,30 @@
                 </div>
             </div>
         </article>
+        <article class="col-sm-12 col-md-12 col-lg-4 popup">
+            <p class="fontsize-20">최근 작업물 맛보기</p>
+            <input type="button" value="DSC WEB세션 홍보물" onclick="go_01()">
+            <div id="01" class="Pstyle">
+                <div class="content" style="height: auto; width: auto;">
+                    <img src="./img/01.png" alt="" width="700px" height="auto">
+                </div>
+            </div>
+            <input type="button" value="DSC GIT세션 홍보물" onclick="go_02()">
+            <div id="02" class="Pstyle">
+                <div class="content" style="height: auto; width: auto;">
+                    <img src="./img/02.png" alt="" width="700px" height="auto">
+                </div>
+            </div>
+            <input type="button" value="DSC 정원사 홍보물" onclick="go_03()">
+            <div id="03" class="Pstyle">
+                <div class="content" style="height: auto; width: auto;">
+                    <img src="./img/03.png" alt="" width="700px" height="auto">
+                </div>
+            </div>
+        </article>
     </section>
     <aside>
-        <p class="fontsize-20">최근 작업물 맛보기</p>
-        <input type="button" value="DSC WEB세션 홍보물" onclick="go_01()">
-        <div id="01" class="Pstyle">
-            <div class="content" style="height: auto; width: auto;">
-                <img src="/img/01.png" alt="" width="700px" height="auto">
-            </div>
-        </div>
-        <input type="button" value="DSC GIT세션 홍보물" onclick="go_02()">
-        <div id="02" class="Pstyle">
-            <div class="content" style="height: auto; width: auto;">
-                <img src="/img/02.png" alt="" width="700px" height="auto">
-            </div>
-        </div>
-        <input type="button" value="DSC 정원사 홍보물" onclick="go_03()">
-        <div id="03" class="Pstyle">
-            <div class="content" style="height: auto; width: auto;">
-                <img src="/img/03.png" alt="" width="700px" height="auto">
-            </div>
-        </div>
+        
     </aside>
     <footer>
         <p>멋쟁이사자처럼 과제를 위하여 제작한 사이트입니다.</p>
