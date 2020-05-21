@@ -1,0 +1,6 @@
+[0521/165252.781:ERROR:file_io_win.cc(179)] CreateFile C:\Users\kimjs\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0521/165252.839:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0521/165252.841:ERROR:file_io_win.cc(179)] CreateFile C:\Users\kimjs\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0521/165532.198:ERROR:file_io_win.cc(179)] CreateFile C:\Users\kimjs\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0521/165532.226:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0521/165532.228:ERROR:file_io_win.cc(179)] CreateFile C:\Users\kimjs\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
